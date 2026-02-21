@@ -1,7 +1,8 @@
 #IPL-Match-Analytics-Dashboard-Using-PowerBI
+
 # 📌 Objective
 To analyze IPL match performance including team wins, scoring trends, toss decisions, and match outcomes.
-![Uploading image.png…]()
+<img width="1380" height="806" alt="image" src="https://github.com/user-attachments/assets/665797f3-03af-4943-97e1-583da0146b03" />
 
 ### 📊 Key KPIs
 - Total Matches Played
