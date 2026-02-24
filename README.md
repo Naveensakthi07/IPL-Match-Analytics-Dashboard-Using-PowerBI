@@ -6,6 +6,10 @@
 - Identify high-performing teams and scoring extremes  
 
 ---
+## 📷 Dashboard Preview
+
+<img width="1380" height="806" alt="image" src="https://github.com/user-attachments/assets/665797f3-03af-4943-97e1-583da0146b03" />
+
 
 ## 📊 Key Features
 
@@ -46,12 +50,6 @@
 - Scoring trends across matches  
 - Impact of batting vs fielding first  
 - Match outcome patterns  
-
----
-
-## 📷 Dashboard Preview
-
-<img width="1380" height="806" alt="image" src="https://github.com/user-attachments/assets/665797f3-03af-4943-97e1-583da0146b03" />
 
 ---
 
